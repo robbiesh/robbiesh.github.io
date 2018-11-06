@@ -179,6 +179,7 @@ a {
   transition: all .15s ease-in-out;
   text-decoration: none;
   color: #7CC6FE;
+  outline: none;
 }
 a:hover {
   color: #f4faff;

@@ -47,6 +47,7 @@ a {
   transition: all .15s ease-in-out;
   text-decoration: none;
   color: $color2;
+  outline: none;
 
   &:hover {
     color: $color1;
