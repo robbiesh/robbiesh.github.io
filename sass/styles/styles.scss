@@ -82,15 +82,13 @@ a {
 }
 
 .slick-next {
-
+  top: 7px;
+  transform: none;
+  right: -50px;
 }
 
 .slick-arrow {
   &:before {
       color: $color2;
   }
-}
-
-.slick-next {
-  right: -50px;
 }
