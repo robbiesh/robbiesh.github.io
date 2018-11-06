@@ -215,4 +215,9 @@ a:hover {
 }
 .slick-arrow:before {
   color: #7CC6FE;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.slick-arrow:hover:before {
+  color: #fe897c;
 }

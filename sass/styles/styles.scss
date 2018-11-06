@@ -92,5 +92,12 @@ a {
 .slick-arrow {
   &:before {
       color: $color2;
+      transition: all 0.3s;
+  }
+
+  &:hover {
+    &:before {
+      color: $color4;
+    }
   }
 }
