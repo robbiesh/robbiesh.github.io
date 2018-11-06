@@ -193,6 +193,9 @@ a:hover {
   p {
     font-size: 14px;
   }
+  .slick-next {
+    display: none;
+  }
 }
 .slide {
   outline: none;
