@@ -180,8 +180,8 @@ a {
 }
 a:hover {
   color: #f4faff;
-  -webkit-box-shadow: inset 0 -28px 0 -1px #fe897c;
-  box-shadow: inset 0 -28px 0 -1px #fe897c;
+  -webkit-box-shadow: inset 0 -28px 0 -1px #7CC6FE;
+  box-shadow: inset 0 -28px 0 -1px #7CC6FE;
 }
 @media (max-width: 600px) {
   .intro {
@@ -221,5 +221,19 @@ a:hover {
   transition: all 0.3s;
 }
 .slick-arrow:hover:before {
-  color: #fe897c;
+  opacity: 0.5;
+}
+.reach-out {
+  color: #feca7c;
+  -webkit-box-shadow: inset 0 -4px 0 -1px #feca7c;
+  box-shadow: inset 0 -4px 0 -1px #feca7c;
+  -webkit-transition: all .15s ease-in-out;
+  transition: all .15s ease-in-out;
+  text-decoration: none;
+  outline: none;
+}
+.reach-out:hover {
+  color: #f4faff;
+  -webkit-box-shadow: inset 0 -28px 0 -1px #feca7c;
+  box-shadow: inset 0 -28px 0 -1px #feca7c;
 }
