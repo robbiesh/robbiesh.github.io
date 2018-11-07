@@ -155,11 +155,6 @@ body {
   background: #f4faff;
   font-family: le-monde-livre-std, serif;
 }
-.wf-loading {
-  opacity: 0;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-}
 .intro {
   max-width: 100%;
   width: 650px;
