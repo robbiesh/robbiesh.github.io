@@ -194,7 +194,7 @@ a:hover {
     font-size: 14px;
   }
   .slick-next {
-    display: none;
+    display: none !important;
   }
 }
 .slide {
