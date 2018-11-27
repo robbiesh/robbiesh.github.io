@@ -24,6 +24,7 @@ html {
 body {
   background: $color1;
   font-family: le-monde-livre-std, serif;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 // .wf-loading {
